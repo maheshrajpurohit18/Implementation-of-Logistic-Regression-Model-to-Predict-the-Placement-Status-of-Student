@@ -121,23 +121,24 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![7](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/9d08f30e-079b-4a69-931a-7dca39086650)
 
-<H3>ACCURACY VALUE</H3>
+<H3>Y-PREDICTION ARRAY</H3>
 
 ![8](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/c101e699-8f25-44bd-b6a8-18e24b0058b6)
+<H3>ACCURACY VALUE</H3>
 
-<H3>CONFUSION VALUE</H3>
 
 ![9](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/ddabf2ce-7202-4e66-a810-fe3599ffbea5)
 
-<H3>CLASSIFICATION REPORT</H3>
+<H3>CONFUSION VALUE</H3>
+
 
 ![10](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/2393d6e1-4585-48ea-b8e0-55bf567cc78b)
 
-<H3>PREDICTION OF LR</H3>
+<H3>CLASSIFICATION REPORT</H3>
 
 ![11](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/d1690a1a-64d6-428b-9d04-9efd2e31fcbe)
 
-
+<H3>PREDICTION OF LR</H3>
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
