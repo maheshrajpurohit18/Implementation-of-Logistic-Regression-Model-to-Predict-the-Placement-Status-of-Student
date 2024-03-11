@@ -102,7 +102,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 <H3>CHECKING THE NULL() FUNCTION</H3>
 
-![3 ml](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/ff4dceca-54a9-4e2c-a66d-77ce72ef396a)
+![Screenshot 2024-03-11 143207](https://github.com/maheshrajpurohit18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118749665/910fc18e-8775-499e-98d3-bd519783b7e1)
+
 
 <H3>DATA DUPLICATE</H3>
 
