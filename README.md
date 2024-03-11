@@ -136,7 +136,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 <H3>CLASSIFICATION REPORT</H3>
 
-![11](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/d1690a1a-64d6-428b-9d04-9efd2e31fcbe)
 
 <H3>PREDICTION OF LR</H3>
 
