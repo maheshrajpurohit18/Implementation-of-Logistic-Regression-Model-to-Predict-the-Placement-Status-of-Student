@@ -30,6 +30,7 @@ Step 9. stop program
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
 Developed by: MAHESH RAJ PUROHIT J
+
 RegisterNumber: 212222230111
 ```
 import pandas as pd
